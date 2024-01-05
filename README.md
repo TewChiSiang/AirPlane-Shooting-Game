@@ -6,6 +6,8 @@ Reward : 20Score or Bullet PowerUp
 
 
 HitsbyEnemy: reduce 4 score 
+
+
 HitsbyEnemyBullet: reduce 2 score
 
 
