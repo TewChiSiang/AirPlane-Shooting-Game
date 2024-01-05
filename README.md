@@ -2,7 +2,7 @@
 Key Instruction: W A S D SPACE UP LEFT DOWN RIGHT
 
 
-Reward : 20Score or Bullet PowerUp
+Reward : 20 score or Bullet PowerUp
 
 
 HitsbyEnemy: reduce 4 score 
