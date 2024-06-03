@@ -12,3 +12,6 @@ HitsbyEnemyBullet: reduce 2 score
 
 
 All enemy has 2hp
+
+try
+
