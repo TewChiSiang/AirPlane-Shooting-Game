@@ -226,11 +226,6 @@ public class PlaneShootingGame extends JPanel implements ActionListener {
         return playerBounds.intersects(powerUpBounds);
     }
 
-    private void handlerewardEffect() {
-    
-    multiBulletMode = true;
-    multiBulletCount = 0;
-}
     private void handleRewardEffect() {
         if (Reward.isScoreReward()) {
             score += 20; // Increase score for score reward
